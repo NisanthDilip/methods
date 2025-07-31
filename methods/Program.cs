@@ -23,6 +23,7 @@ namespace methods
             int a=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter A Value");
             int b = Convert.ToInt32(Console.ReadLine());
+            //return
             return a + b;
 
         }
